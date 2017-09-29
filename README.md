@@ -30,4 +30,3 @@ preBuild.dependsOn(list, checksum)
 clean.dependsOn(clean_assets)
 ```
 
-This uses the CMU Sphnix Library for voice recognition @ http://cmusphinx.sourceforge.net/
